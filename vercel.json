@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install",
+  "buildCommand": "npx convex deploy --cmd 'npm run build'",
+  "rootDirectory": "app"
+}
